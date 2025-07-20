@@ -1,1 +1,1 @@
-Dataset: https://www.kaggle.com/datasets/claytonteybauru/spiral-handpd/data
+Dataset: http://wwwp.fc.unesp.br/~papa/pub/datasets/Handpd/
